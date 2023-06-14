@@ -8,3 +8,5 @@
 <h2>Packages:</h2>
 <p>sklearn, pandas, numpy, matplotlib, seaborn, time.</p>
 
+<h2>Summary:</h2>
+<p>This data contains 18 attributes and 12330 observations, the Revenue variable is the response variable with 10,422 False means did not end with shopping comparing to 1908 True means they are ending with shopping. 5 classification algorithms are applied to the, including decision tree, neural networks, boosting, SVM and KNN. After the application of each SL model, the comparison is performed to help with model selection and futher thinking.</p>
